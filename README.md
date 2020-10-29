@@ -1,4 +1,6 @@
 "# Elephant-Mouse-Multi-Threading-Game" 
+Download files and run in command prompt w/ the following arguments.
+
 Input (Integers): (number of rows) (number of columns) (striking distance) (number of elephants) (number of mice)
 Example input: 100 100 6 4 7
 
